@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/BiYTES-website/static/css/main.da89a606.chunk.css",
+    "main.js": "/BiYTES-website/static/js/main.c6be8fe8.chunk.js",
+    "main.js.map": "/BiYTES-website/static/js/main.c6be8fe8.chunk.js.map",
+    "runtime-main.js": "/BiYTES-website/static/js/runtime-main.b2b9769a.js",
+    "runtime-main.js.map": "/BiYTES-website/static/js/runtime-main.b2b9769a.js.map",
+    "static/js/2.89088abe.chunk.js": "/BiYTES-website/static/js/2.89088abe.chunk.js",
+    "static/js/2.89088abe.chunk.js.map": "/BiYTES-website/static/js/2.89088abe.chunk.js.map",
+    "index.html": "/BiYTES-website/index.html",
+    "precache-manifest.e2b38386f6b48b89452a8c39a5ad5304.js": "/BiYTES-website/precache-manifest.e2b38386f6b48b89452a8c39a5ad5304.js",
+    "service-worker.js": "/BiYTES-website/service-worker.js",
+    "static/css/main.da89a606.chunk.css.map": "/BiYTES-website/static/css/main.da89a606.chunk.css.map",
+    "static/js/2.89088abe.chunk.js.LICENSE.txt": "/BiYTES-website/static/js/2.89088abe.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/BiYTES-website/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/BiYTES-website/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/BiYTES-website/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/BiYTES-website/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/BiYTES-website/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/BiYTES-website/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/BiYTES-website/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/BiYTES-website/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/BiYTES-website/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/BiYTES-website/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/BiYTES-website/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/BiYTES-website/static/media/video-placeholder.1ffe00e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b9769a.js",
+    "static/js/2.89088abe.chunk.js",
+    "static/css/main.da89a606.chunk.css",
+    "static/js/main.c6be8fe8.chunk.js"
+  ]
+}
