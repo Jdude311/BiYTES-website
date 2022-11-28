@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BiYTES-website/precache-manifest.e2b38386f6b48b89452a8c39a5ad5304.js"
+  "/BiYTES-website/precache-manifest.0fa77dbd93e97d5da22ac25a81a3d3fd.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BiYTES-website/static/css/main.da89a606.chunk.css",
-    "main.js": "/BiYTES-website/static/js/main.c6be8fe8.chunk.js",
-    "main.js.map": "/BiYTES-website/static/js/main.c6be8fe8.chunk.js.map",
+    "main.css": "/BiYTES-website/static/css/main.1e5c37dc.chunk.css",
+    "main.js": "/BiYTES-website/static/js/main.403307e8.chunk.js",
+    "main.js.map": "/BiYTES-website/static/js/main.403307e8.chunk.js.map",
     "runtime-main.js": "/BiYTES-website/static/js/runtime-main.b2b9769a.js",
     "runtime-main.js.map": "/BiYTES-website/static/js/runtime-main.b2b9769a.js.map",
     "static/js/2.89088abe.chunk.js": "/BiYTES-website/static/js/2.89088abe.chunk.js",
     "static/js/2.89088abe.chunk.js.map": "/BiYTES-website/static/js/2.89088abe.chunk.js.map",
     "index.html": "/BiYTES-website/index.html",
-    "precache-manifest.e2b38386f6b48b89452a8c39a5ad5304.js": "/BiYTES-website/precache-manifest.e2b38386f6b48b89452a8c39a5ad5304.js",
+    "precache-manifest.0fa77dbd93e97d5da22ac25a81a3d3fd.js": "/BiYTES-website/precache-manifest.0fa77dbd93e97d5da22ac25a81a3d3fd.js",
     "service-worker.js": "/BiYTES-website/service-worker.js",
-    "static/css/main.da89a606.chunk.css.map": "/BiYTES-website/static/css/main.da89a606.chunk.css.map",
+    "static/css/main.1e5c37dc.chunk.css.map": "/BiYTES-website/static/css/main.1e5c37dc.chunk.css.map",
     "static/js/2.89088abe.chunk.js.LICENSE.txt": "/BiYTES-website/static/js/2.89088abe.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/BiYTES-website/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/BiYTES-website/static/media/feature-tile-icon-01.0f9928d7.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2b9769a.js",
     "static/js/2.89088abe.chunk.js",
-    "static/css/main.da89a606.chunk.css",
-    "static/js/main.c6be8fe8.chunk.js"
+    "static/css/main.1e5c37dc.chunk.css",
+    "static/js/main.403307e8.chunk.js"
   ]
 }
