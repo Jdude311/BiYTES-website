@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c097e067120313c6e5449acb05d47b24",
+    "revision": "9bc3a2402e2631281916f9621459507b",
     "url": "/BiYTES-website/index.html"
   },
   {
-    "revision": "9a2b4fe8326d72801825",
-    "url": "/BiYTES-website/static/css/main.1e5c37dc.chunk.css"
+    "revision": "c0e64c5d15d02ec80c57",
+    "url": "/BiYTES-website/static/css/main.df98fe59.chunk.css"
   },
   {
-    "revision": "17cc3cee5b44316dcae1",
-    "url": "/BiYTES-website/static/js/2.89088abe.chunk.js"
+    "revision": "eb1fdbb52447c1a1955e",
+    "url": "/BiYTES-website/static/js/2.bb3ec9c6.chunk.js"
   },
   {
-    "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/BiYTES-website/static/js/2.89088abe.chunk.js.LICENSE.txt"
+    "revision": "d5b473ff893d6b5fac7d0b5081a5072a",
+    "url": "/BiYTES-website/static/js/2.bb3ec9c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a2b4fe8326d72801825",
-    "url": "/BiYTES-website/static/js/main.403307e8.chunk.js"
+    "revision": "c0e64c5d15d02ec80c57",
+    "url": "/BiYTES-website/static/js/main.05973565.chunk.js"
   },
   {
     "revision": "bf2dc9ced9798c5e9128",
