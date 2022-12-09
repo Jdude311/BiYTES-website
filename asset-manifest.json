@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/BiYTES-website/static/css/main.1e5c37dc.chunk.css",
-    "main.js": "/BiYTES-website/static/js/main.15ae7475.chunk.js",
-    "main.js.map": "/BiYTES-website/static/js/main.15ae7475.chunk.js.map",
+    "main.js": "/BiYTES-website/static/js/main.403307e8.chunk.js",
+    "main.js.map": "/BiYTES-website/static/js/main.403307e8.chunk.js.map",
     "runtime-main.js": "/BiYTES-website/static/js/runtime-main.b2b9769a.js",
     "runtime-main.js.map": "/BiYTES-website/static/js/runtime-main.b2b9769a.js.map",
-    "static/js/2.4e9be5c4.chunk.js": "/BiYTES-website/static/js/2.4e9be5c4.chunk.js",
-    "static/js/2.4e9be5c4.chunk.js.map": "/BiYTES-website/static/js/2.4e9be5c4.chunk.js.map",
+    "static/js/2.89088abe.chunk.js": "/BiYTES-website/static/js/2.89088abe.chunk.js",
+    "static/js/2.89088abe.chunk.js.map": "/BiYTES-website/static/js/2.89088abe.chunk.js.map",
     "index.html": "/BiYTES-website/index.html",
-    "precache-manifest.7a6166234c2e3e897742b322ba378568.js": "/BiYTES-website/precache-manifest.7a6166234c2e3e897742b322ba378568.js",
+    "precache-manifest.0fa77dbd93e97d5da22ac25a81a3d3fd.js": "/BiYTES-website/precache-manifest.0fa77dbd93e97d5da22ac25a81a3d3fd.js",
     "service-worker.js": "/BiYTES-website/service-worker.js",
     "static/css/main.1e5c37dc.chunk.css.map": "/BiYTES-website/static/css/main.1e5c37dc.chunk.css.map",
-    "static/js/2.4e9be5c4.chunk.js.LICENSE.txt": "/BiYTES-website/static/js/2.4e9be5c4.chunk.js.LICENSE.txt",
+    "static/js/2.89088abe.chunk.js.LICENSE.txt": "/BiYTES-website/static/js/2.89088abe.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/BiYTES-website/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/BiYTES-website/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/BiYTES-website/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b2b9769a.js",
-    "static/js/2.4e9be5c4.chunk.js",
+    "static/js/2.89088abe.chunk.js",
     "static/css/main.1e5c37dc.chunk.css",
-    "static/js/main.15ae7475.chunk.js"
+    "static/js/main.403307e8.chunk.js"
   ]
 }
