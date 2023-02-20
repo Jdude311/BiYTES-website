@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28220e4dbda5b852bae238cf0fe783e3",
+    "revision": "287f8a88dc0f3b167e89e5d4a8ceead8",
     "url": "/BiYTES-website/index.html"
   },
   {
-    "revision": "c8af2c5df01e1f03e6a6",
+    "revision": "76fd0e64950d8c353a23",
     "url": "/BiYTES-website/static/css/main.da89a606.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BiYTES-website/static/js/2.2427bdb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8af2c5df01e1f03e6a6",
-    "url": "/BiYTES-website/static/js/main.108d198b.chunk.js"
+    "revision": "76fd0e64950d8c353a23",
+    "url": "/BiYTES-website/static/js/main.7a8c3c97.chunk.js"
   },
   {
     "revision": "bf2dc9ced9798c5e9128",
