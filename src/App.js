@@ -36,7 +36,7 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute exact path="/BiYTES-website/" basename={process.env.PUBLIC_URL} component={Home} layout={LayoutDefault} />
+          <AppRoute exact path="/" basename={process.env.PUBLIC_URL} component={Home} layout={LayoutDefault} />
         </Switch>
       )} />
   );

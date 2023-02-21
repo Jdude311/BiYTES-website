@@ -1,11 +1,12 @@
 {
-  "homepage": "https://jdude311.github.io/BiYTES-website/",
+  "homepage": "www.biytes.org",
   "name": "open-react-template",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
     "10": "^0.0.1",
     "classnames": "^2.2.6",
+    "gh-pages": "^5.0.0",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
